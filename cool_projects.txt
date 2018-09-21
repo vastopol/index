@@ -1,0 +1,12 @@
+These are projects that others have built which are very interesting
+all of these should be stuff that is free/public domain etc...
+
+Foreign Function Interfaces:
+* pynapl - https://github.com/Dyalog/pynapl
+* cinpy  - https://github.com/csarn/cinpy
+
+Operating Systems:
+* unix     - https://www.tuhs.org/
+* freedos  - http://www.freedos.org/
+* mikeos   - http://mikeos.sourceforge.net/
+* templeos - http://templeos.org/

@@ -1,11 +1,8 @@
 # index
-overview of my work &amp;&amp; resources
 
-Windows is not a good platform for easily programming.
-Using dual boot, most of my coding is done on linux.
+overview of my work and other resources
 
-only use windows for: dyalog apl, matlab, atmel studio, eclipse
+plan is to have a collection of notes and pointers to other resources
 
-eclipse is buggy, prone to crashes, difficult to properly setup and configure on linux.
-
-need windows to use atmel studio, unless you make your own build chain.
+eventually upload the collection of computer programming pdfs I've collected
+all of the pdfs were found on the internet for free
