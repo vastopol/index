@@ -6,7 +6,7 @@ http://www.modernescpp.com/index.php/first-class-functions
 Higher-Order Functions
 http://www.modernescpp.com/index.php/higher-order-functions
 
-//------------------------------------------------------
+----------------------------------------
 
 python
 
@@ -15,3 +15,9 @@ http://composingprograms.com/pages/16-higher-order-functions.html
 
 A guide to Python's function decorators
 https://www.thecodeship.com/patterns/guide-to-python-function-decorators/
+
+----------------------------------------
+
+java
+
+http://web.mit.edu/6.005/www/fa15/classes/25-map-filter-reduce/
