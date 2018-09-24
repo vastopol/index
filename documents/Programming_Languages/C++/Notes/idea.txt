@@ -1,0 +1,54 @@
+finish notes for
+comp sci 
+*ch 5.12,5.16
+-pass by reference
+-preprocessor & include
+*all ch6
+
+CSS, HTML, JAVASCRIPT
+
+//---------------------
+
+dangleing pointer =
+pointer that points to mem used to be allocated but was deleted/ deallocated
+================
+delete contents of array then set pointer to NULL
+==============
+declare pointer then set to NULL||0||address 
+IMMEDIATELY
+
+//---------------------------------
+
+CONSTRUCT
+data = new int[cap]
+
+DESTRUCTOR
+delete[] data;
+ data = 0;
+
+================
+only expand functions and destructors need delete in them...
+
+//-----------------------------------------------
+
+print
+modify
+remove/clear/erase
+save to file
+get from file
+quit EXE
+
+//-------------------------------------
+
+important for cs14******
+
+cin >> int;
+cin.get(char);
+getline(cin, string);
+------------
+selection sort
+merge sort
+
+//----------------------------------
+
+
