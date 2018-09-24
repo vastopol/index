@@ -1,0 +1,14 @@
+Random Computer Science Resources
+
+Github pages:
+* Developer-Y - https://github.com/Developer-Y
+
+Soundcloud Podcasts:
+* Haskellcast
+* Lambdacast
+* Codeblocks
+* lightbend
+* magpie talkshow
+* The ZADevchat Podcast
+* Stack Overflow Podcast
+* Stack Exchange Podcast
