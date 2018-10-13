@@ -1,0 +1,38 @@
+
+Git Commands
+_______________________________________________________________
+
+
+* == wildcard 
+  eg. git add <"*.cpp"> == add all files end with " .cpp"
+
+$ git init == create a new empty git repo
+$ git status == see current state of repository
+$ git log == see all changes commited so far
+$ git add <file(s)> == add file(s) to staging area
+$ git remote add <remote_name> <repository URL> ==
+$ git rm <file(s)> == remove files form disk and stage area
+$ git rm --cached <file(s)> == remove file(s) from the staging area
+$ git commit -m <"useful message"> == put a message describing changes
+$ git push == where to put commits
+$ git push -u <remote> <default branch> == remember parameters so next time use only 'git push'
+$ git pull == check for and pull down new changes to repo
+$ git pull <remote> <branch> == 
+$ git diff == see what is different with repo
+$ git diff HEAD == diff of most recent commit, 'HEAD' = pointer 
+$ git diff --staged == see diff of changes that just staged
+$ git reset == unstage files
+$ git checkout --<target_file(s)> == in files remove changes since last commit
+$ git branch == show branches existing
+$ git branch <branch_name> == create a copy branch off... merge it later
+$ git branch -d <branch_name> == delete specified branch
+$ git cheeckout <branch> == switch to that branch
+$ git merge <branch> == merge specified branch with branch you on
+
+
+
+
+ 
+  
+
+ 

@@ -1,0 +1,97 @@
+Derived from the C languages
+
+Please note that "C" in the paragraphs above refers to Classic C and C89. 
+C++ is not a descendant of C99; C++ and C99 are siblings. 
+C99 introduces several novel opportunities for C/C++ incompatibilities. 
+
+The C programming language began to be standardized some time around 1985 by the ANSI X3J9 committee.
+Several years of effort went by, and in 1989 ANSI approved the new standard.
+An ISO committee ratified it a year later in 1990 after adding an amendment dealing with internationalization issues. 
+The 1989 C standard is known officially as ANSI/ISO 9899-1989, Programming Languages - C, and this document refers to the 1989 C standard as C89.
+The 1990 ISO revision of the standard is known officially as ISO/IEC 9899-1990, Programming Languages - C, which is referred to in this document as "C90".
+
+The next version of the C standard was ratified by ISO in 1999.
+Officially know as ISO/IEC 9899-1999, Programming Languages - C, it is referred to in this document as "C99".
+
+The C++ programming language was based on the C programming language as it existed shortly after the ANSI C standardization effort had begun.
+Around 1995 an ISO committee was formed to standardize C++, and the new standard was ratified in 1998, which is officially known as ISO/IEC 14882-1998, Programming Languages - C++. It is referred to in this document as "C++98" or simply as "C++".
+
+Here is a description of the differences between C++98 and C99.
+
+C++ versus C
+
+Huge portions of C++ and its library fall into this category.
+partial list of these features includes:
+
+anonymous unions
+classes
+constructors and destructors
+exceptions and try/catch blocks
+external function linkages (e.g., extern "C")
+function overloading
+member functions
+namespaces
+new and delete operators and functions
+operator overloading
+reference types
+standard template library (STL)
+template classes
+template functions
+
+-----------------------------------------------------------
+
+C:
+
+C supports structured procedural programming.
+
+different std:
+c89
+c90
+c95
+c99 **
+
+---------------------------------------------------
+
+C++:
+
+c++ super set of c95
+
+In the strict mathematical sense, C isn't a subset of C++. 
+There are programs that are valid C but not valid C++ and even a few ways of writing code that has a different meaning in C and C++. 
+However, C++ supports every programming technique supported by C. 
+Every C program can be written in essentially the same way in C++ with the same run-time and space efficiency. 
+It is not uncommon to be able to convert tens of thousands of lines of ANSI C to C-style C++ in a few hours. 
+Thus, C++ is as much a superset of ANSI C as ANSI C is a superset of K&R C and much as ISO C++ is a superset of C++ as it existed in 1985.
+
+C++ is a direct descendant of C that retains almost all of C as a subset. 
+C++ provides stronger type checking than C and directly supports a wider range of programming styles than C. 
+C++ is "a better C" in the sense that it supports the styles of programming done using C 
+with better type checking and more notational support (without loss of efficiency). 
+In the same sense, ANSI C is a better C than K&R C. 
+In addition, C++ supports data abstraction, object-oriented programming, and generic programming
+ and metaprogramming (carrying out arbitrary computation at compile time).
+
+------------------------------------------------------------
+
+Following are the differences Between C and C++ :
+
+
+C			                              			C++
+1. C is Procedural Language.						1. C++ is non Procedural i.e Object oriented Language.
+2. No virtual Functions are present in C				2. The concept of virtual Functions are used in C++.
+3. In C, Polymorphism is not possible.					3. The concept of polymorphism is used in C++. Polymorphism is the most Important Feature of OOPS.
+4. Operator overloading is not possible in C.				4. Operator overloading is one of the greatest Feature of C++.
+5. Top down approach is used in Program Design.				5. Bottom up approach adopted in Program Design.
+6. No namespace Feature is present in C Language.			6. Namespace Feature is present in C++ for avoiding Name collision.
+7. Multiple Declaration of global variables are allowed.		7. Multiple Declaration of global varioables are not allowed.
+8. In C									8. In C++
+scanf() Function used for Input.					Cin>> Function used for Input.
+printf() Function used for output.					Cout<< Function used for output.
+9. Mapping between Data and Function is difficult and complicated.		9. Mapping between Data and Function can be used using "Objects"
+10. In C, we can call main() Function through other Functions			10. In C++, we cannot call main() Function through other functions.
+11. C requires all the variables to be defined at the starting of a scope.	11. C++ allows the declaration of variable anywhere in the scope i.e at time of its First use.
+12. No inheritance is possible in C.						12. Inheritance is possible in C++
+13. In C, malloc() and calloc() Functions are used for Memory Allocation
+ and free() function for memory Deallocating.				13.In C++,  new and delete operators are used for Memory Allocating and Deallocating.
+14. It supports built-in and primitive data types.			14. It support both built-in and user define data types.
+15. In C, Exception Handling is not present.				15. In C++, Exception Handling is done with Try and Catch block.

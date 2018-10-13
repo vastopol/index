@@ -1,0 +1,9 @@
+lambda / (2 pi epsilon0 r0)
+
+@DIV{&lambda;;2&pi;&epsi;@SUB{0}r@SUB{0}}
+
+-------------------------------------------------
+
+1 / (4  pi r^2)
+
+@DIV{1;4&pi;r@SUP{2}}

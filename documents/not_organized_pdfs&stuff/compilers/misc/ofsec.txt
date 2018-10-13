@@ -1,0 +1,10 @@
+https://blog.talosintelligence.com/2017/10/disassembler-and-runtime-analysis.html
+
+The next links are for general application security
+many of the 2013 vulnerabilities reapear in the 2017 vulnerability lists
+
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+https://www.owasp.org/index.php/Top_10-2017_Top_10
+http://cwe.mitre.org/data/definitions/1026.html
+https://www.csiac.org/journal-article/software-assurance-adoption-through-open-source-tools/
+https://www.bishopfox.com/resources/downloads/

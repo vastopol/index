@@ -1,0 +1,83 @@
+
+git usage for version control
+these are git commands to use when working on files
+---------------------------------------------------
+
+1. basic git
+-----------
+Git is a version control system that tracks file changes.
+The main branch is called "master" this is the most important source and should not be directly modified. It is the main code base and is usually only modified by merging another branch into master. This helps prevent merge confilcts of corruption of the main project files.
+
+
+2. git commands
+NOTE: text in <> is an argument to the git command. you do not need to actually write the <>
+-----------------------------
+* git status
+Show the status of the current working tree
+
+* git log
+shows a log of the commits to the project
+
+* git pull
+fetch from a remote repository and integrate to local branch
+
+* git add <file_name>
+add a modified file to the index
+
+* git add .
+add all the modified files to the index
+
+* git commit -m "useful message about changes to code"
+record changes to files with  a message
+
+* git push
+update remote repository 
+
+* git branch
+show branches 
+
+* git branch <branch_name>
+create a new branch 
+
+* git checkout <branch_name>
+move from current branch to specified branch
+
+* git merge <branch_name>
+merge specified branch into current branch
+
+
+3. git repo setup
+-----------------
+once you have cloned the existing master repository,
+Then you should create a new branch and move into that branch (this is where you will be doing most of the work in)
+
+git pull origin master
+git branch <name>
+git checkout <name>
+
+now any changes or modifications should be done in this branch
+
+4. git on projects
+------------------
+
+when you have reached a point where the code is ready to be put into master branch there are steps that should be followed to make sure it goes smooth.
+( lets assume the code is in a branch called "party" )
+
+git add .
+
+git commit -m "created some new stuff..."
+
+git checkout master
+
+git pull
+
+git merge party
+
+git push
+
+git checkout party
+
+
+
+
+
