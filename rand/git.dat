@@ -1,0 +1,95 @@
+using git
+-----------------
+
+Push a new local branch to a remote Git repository and track it too
+1. Create a new branch: git checkout -b feature_branch_name.
+2. Edit, add and commit your files.
+3. Push your branch to the remote repository: git push -u origin feature_branch_name.
+
+-----------------
+
+view whats what
+
+$ git config -l
+
+-------------------
+
+fix error with git push
+
+$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+---------------
+
+warning: user.name has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change user.name.
+warning: user.email has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change user.email.
+push.default=simple
+
+
+
+---------------
+
+
+clone and pull another branch besides master
+
+
+
+You can use below solution:-
+
+Step1: Clone the repo by using below command following by credentials.
+
+git clone <Repository URL>
+Step 2: checkout the branch and pull the latest code from there.
+
+git checkout -b <your origin branch>
+Step 3: pull the latest code
+
+git pull origin <your origin branch name where latest code is there>
+
+
+
+---------------------------------------
+
+function to show git branch
+
+
+__git_ps1
+
+---------------------------------------
+
+…or create a new repository on the command line
+echo "# repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/user/repo.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/user/repo.git
+git push -u origin master
+
+

@@ -1,0 +1,14 @@
+linting:
+
+
+
+shell scripts:
+
+	checkbashisms
+
+
+python:
+
+	pep8
+
+

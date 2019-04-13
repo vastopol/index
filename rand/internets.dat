@@ -1,0 +1,13 @@
+commands 
+--------------
+
+service network-manager restart
+
+lshw
+lspci
+
+ifconfig
+iwconfig
+
+iw
+iwlist

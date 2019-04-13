@@ -1,0 +1,9 @@
+
+* when locate command doesn't work
+
+    locate: can not stat () `/var/lib/mlocate/mlocate.db': No such file or directory
+
+    sudo updatedb
+
+
+    
