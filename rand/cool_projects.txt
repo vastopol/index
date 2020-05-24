@@ -10,17 +10,3 @@ Operating Systems:
 * freedos  - http://www.freedos.org/
 * mikeos   - http://mikeos.sourceforge.net/
 * templeos - http://templeos.org/
-
-Build a Computer Kits:
-* rc2014
-  * https://rc2014.co.uk/
-  * https://github.com/RC2014Z80
-  * https://www.tindie.com/products/Semachthemonkey/rc2014-pro-homebrew-z80-computer-kit/
-
-* fignition
-  * https://sites.google.com/site/libby8dev/fignition
-  * https://sites.google.com/site/libby8dev/figkeys
-  * https://github.com/Snial/FIGnition
-  * https://uk.rs-online.com/web/p/single-board-computers/7755003/?searchTerm=FIGnition
-  * http://export.rsdelivers.com/product/fignition/fignition-infuze/fignition-infuze-sbc-kit/7755003
-  

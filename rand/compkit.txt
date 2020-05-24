@@ -1,0 +1,56 @@
+Computer Kits:
+
+----------
+
+* the c64
+    * https://retrogames.biz/the-c64
+
+* rc2014
+  * https://rc2014.co.uk/
+  * https://github.com/RC2014Z80
+  * https://www.tindie.com/products/Semachthemonkey/rc2014-pro-homebrew-z80-computer-kit/
+
+----------
+
+* Mega 65
+    * http://mega65.org/
+    * http://c65gs.blogspot.com/
+
+* commander x16
+    * http://commanderx16.com/X16/Ready.html
+
+* omni 128k
+    * https://retroradionics.co.uk/#!/RetroRadionics-OMNI-128HQ-desktop-&-laptop/c/29185006/offset=0&sort=normal
+
+* c64 reloaded
+    * https://icomp.de/shop-icomp/en/produkt-details/product/c64-reloaded-mk2.html
+
+* Maximite
+    * http://geoffg.net/maximite.html
+    * https://circuitgizmos.com/gizmo-store/CGCOLORMAX2-Color-Maximite-Retro-Computer-p53819402
+
+* fignition
+  * https://sites.google.com/site/libby8dev/fignition
+  * https://sites.google.com/site/libby8dev/figkeys
+  * https://github.com/Snial/FIGnition
+  * https://uk.rs-online.com/web/p/single-board-computers/7755003/?searchTerm=FIGnition
+  * http://export.rsdelivers.com/product/fignition/fignition-infuze/fignition-infuze-sbc-kit/7755003
+
+* Gigatron ttl
+    * https://gigatron.io/
+
+* Replica 1 / PE6502
+    * http://www.brielcomputers.com/wordpress/?cat=17
+    * http://putnamelectronics.com/products.html
+    * https://www.reactivemicro.com/product/replica-1-plus-from-briel-computers/
+    * https://wiki.reactivemicro.com/Replica_1
+
+* Z80 Membership Card
+    * http://www.sunrise-ev.com/z80.htm
+
+* CPUville Single-board Z80 computer kit
+    * http://cpuville.com/Kits/Single-board-kit.html
+
+* Harlequin
+    * https://www.bytedelight.com/?product_cat=harlequin48
+    * https://www.bytedelight.com/?product_cat=harlequin128
